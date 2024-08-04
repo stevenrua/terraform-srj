@@ -1,0 +1,27 @@
+instancia creada con IP 52.90.164.8 
+instancia 52.90.164.8 destruida 
+instancia creada con IP 54.234.204.99 
+instancia 54.234.204.99 destruida 
+instancia creada con IP 52.71.35.21 
+instancia 52.71.35.21 destruida 
+instancia creada con IP 52.55.31.247 
+instancia 52.55.31.247 destruida 
+instancia creada con IP 34.207.247.97 
+instancia 34.207.247.97 destruida 
+instancia creada con IP 52.71.55.188 
+instancia 52.71.55.188 destruida 
+instancia creada con IP 18.234.252.8 
+instancia 18.234.252.8 destruida 
+instancia creada con IP 54.86.142.120 
+instancia 54.86.142.120 destruida 
+instancia creada con IP 3.92.75.195 
+instancia 3.92.75.195 destruida 
+instancia creada con IP 3.92.146.112 
+instancia 3.92.146.112 destruida 
+instancia creada con IP 34.203.230.50 
+instancia 34.203.230.50 destruida 
+instancia creada con IP 54.166.165.199 
+instancia 35.153.73.88 destruida 
+instancia creada con IP 54.145.13.46 
+instancia 54.145.13.46 destruida 
+instancia creada con IP 34.204.14.131 
